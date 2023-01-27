@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.741e2213.css",
+    "main.js": "/static/js/main.b8148073.js",
+    "static/css/869.ad85d618.chunk.css": "/static/css/869.ad85d618.chunk.css",
+    "static/js/869.886fb3e5.chunk.js": "/static/js/869.886fb3e5.chunk.js",
+    "static/js/787.cd52a978.chunk.js": "/static/js/787.cd52a978.chunk.js",
+    "static/css/45.38a14a6d.chunk.css": "/static/css/45.38a14a6d.chunk.css",
+    "static/js/45.673828d0.chunk.js": "/static/js/45.673828d0.chunk.js",
+    "static/media/people14.jpg": "/static/media/people14.6b7fc1d4a842c1d87746.jpg",
+    "static/media/people45.jpg": "/static/media/people45.f86a9338484ccbaa4741.jpg",
+    "static/media/people21.jpg": "/static/media/people21.be2d6670329a1470cd63.jpg",
+    "static/media/people23.jpg": "/static/media/people23.984812545d2161f7ea3c.jpg",
+    "static/media/people41.jpg": "/static/media/people41.3edebb754f0131b85445.jpg",
+    "static/media/people1.jpg": "/static/media/people1.06639305266720a7a6d8.jpg",
+    "static/media/people13.jpg": "/static/media/people13.c45862baf18daad8ff14.jpg",
+    "static/media/people6.jpg": "/static/media/people6.e8c7d46def9ccd452cfe.jpg",
+    "static/media/people27.jpg": "/static/media/people27.3cfea93ea4a84c276fb8.jpg",
+    "static/media/people34.jpg": "/static/media/people34.edca3a7bcd7ab62013d5.jpg",
+    "static/media/people18.jpg": "/static/media/people18.88e351800495d7b921cc.jpg",
+    "index.html": "/index.html",
+    "main.741e2213.css.map": "/static/css/main.741e2213.css.map",
+    "main.b8148073.js.map": "/static/js/main.b8148073.js.map",
+    "869.ad85d618.chunk.css.map": "/static/css/869.ad85d618.chunk.css.map",
+    "869.886fb3e5.chunk.js.map": "/static/js/869.886fb3e5.chunk.js.map",
+    "787.cd52a978.chunk.js.map": "/static/js/787.cd52a978.chunk.js.map",
+    "45.38a14a6d.chunk.css.map": "/static/css/45.38a14a6d.chunk.css.map",
+    "45.673828d0.chunk.js.map": "/static/js/45.673828d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.741e2213.css",
+    "static/js/main.b8148073.js"
+  ]
+}
